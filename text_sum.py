@@ -10,7 +10,6 @@ def summarize(text: str) -> str:
 
     nlp = spacy.load('en_core_web_sm')
     doc = nlp(text)
-    tokens = [token.text for token in doc]
 
     word_frequencies = {}
     for word in doc:
