@@ -1,0 +1,1047 @@
+PESSIMAL PACKING SHAPES 19
+
+〈f ′0, ei〉 = 2679(128− 743u+ 816u
+2) for i = 1
+
+〈f ′0, ei〉 = 0 for i = 2, 4, 6, 8, 10, 12, 14
+〈f ′0, ei〉 = 27(−4− 3u+ 8u
+
+2) for i = 3, 5, 7, 9, 11, 13
+〈f ′0, ei〉 = 27(−2− u+ 4u
+
+2)v for i = 15, 18, 22, 23, 26, 27, 30, 31, 34, 35, 39, 42
+〈f ′0, ei〉 = 27(−5− 3u+ 10u
+
+2)v for i = 16, 17, 20, 21, 25, 28, 29, 32, 36, 37, 40, 41
+〈f ′0, ei〉 = 2679(−618− 273u+ 692u
+
+2)v for i = 19, 38
+〈f ′0, ei〉 = 2679(−649− 1179u+ 2010u
+
+2)v for i = 24, 33
+〈g′1, e1〉 = 〈g′8, e1〉 = −1− u
+〈g′1, e2〉 = −〈g′8, e2〉 = 18(−15− 2u+ 20u
+
+2)
+〈g′1, e28〉 = 〈g′8, e29〉 = −2(1 + u)v
+〈g′15, e1〉 = 〈g′22, e1〉 = 32(−3 + 4u
+
+2)v
+〈g′15, e27〉 = 〈g′22, e30〉 = 14(−15− 2u+ 20u
+
+2)
+〈g′15, e28〉 = 〈g′22, e29〉 = 12(−9− 2u+ 14u
+
+2)
+〈g′29, e27〉 = 〈g′36, e30〉 = 14(−7− 2u+ 12u
+
+2)
+〈g′29, e28〉 = 〈g′36, e29〉 = 12(−13− 2u+ 18u
+
+2)
+
+Table 3.Yoav Kallus, Santa Fe Institute, 1399 Hyde Park Road, Santa Fe,
+New Mexico 87501
+
+f0 u1 u2
+〈·, e1〉 − 2679(419− 452u+ 40u
+
+2) 0 0
+〈·, e2〉 0 0 0
+〈·, e3〉 11358(587− 148u− 732u
+
+2) 1
+1609
+
+(−1171 + 1296u+ 3652u2)v 1
+3218
+
+(2631− 194u− 60u2)
+〈·, e4〉 − 4679(−81− 8u+ 199u
+
+2)v 1
+3218
+
+(2631− 194u− 60u2) − 1
+11263
+
+(−13669 + 13864u+ 19084u2)v
+〈·, e5〉 3679(−39 + 68u+ 6u
+
+2) 0 0
+〈·, e6〉 6679(76− 135u+ 48u
+
+2)v 0 0
+〈·, e7〉 114(5− 12u+ 8u
+
+2) 1
+1609
+
+(−1911 + 2104u+ 4300u2)v 1
+3218
+
+(−1241− 454u+ 1452u2)
+〈·, e8〉 297(−46 + 23u+ 22u
+
+2)v 1
+3218
+
+(−295 + 670u− 1916u2)(4/679)(31− 258u+ 40u2)v
+〈·, F0e8〉 (4/65863)(33298− 78729u+ 50406u2)v −(4/679)(129− 113u+ 10u2)
+〈·, F0e9〉 (1/679)(−569 + 2564u− 2136u2) −(4/679)(31− 258u+ 40u2)v
+〈·, F0e10〉 −(4/65863)(33298− 78729u+ 50406u2)v −(4/679)(129− 113u+ 10u2)
+〈·, F0e11〉 (2/461041)(19669− 35394u+ 47802u2) 0
+〈·, F0e12〉 (4/461041)(88155− 230075u+ 174752u2)v 0
+〈·, F0e13〉 −(2/461041)(72529− 63570u+ 30298u2) (4/49)(−4− u+ 10u2)v
+〈·, F0e14〉 −(4/461041)(−60408− 31391u+ 115516u2)v 1/7
+
+e3 e4
+〈·, F0e1〉 −(2/461041)(72529− 63570u+ 30298u2) (4/461041)(−60408− 31391u+ 115516u2)v
+〈·, F0e2〉 −(4/49)(−4− u+ 10u2)v 1/7
+〈·, F0e3〉 (1/461041)(−20089− 45197u− 24338u2) −(1/461041)(15943 + 262998u+ 380160u2)v
+〈·, F0e4〉 −(1/461041)(15943 + 262998u+ 380160u2)v (1/65863)(−23109− 25645u+ 18926u2)
+〈·, F0e5〉 (1/461041)(759 + 107533u+ 100614u2) (3/461041)(8985 + 89258u+ 119032u2)v
+〈·, F0e6〉 (1/461041)(−149167− 245274u+ 634392u2)v (1/65863)(20449 + 1367u− 33410u2)
+〈·, F0e7〉 (1/9506)(−1347 + 2080u+ 13444u2) (2/4753)(−439 + 1432u+ 3082u2)v
+〈·, F0e8〉 (2/65863)(−7673 + 14458u+ 17178u2)v (1/131726)(66455 + 40832u− 105836u2)
+〈·, F0e9〉 −(3/9506)(−587 + 2088u+ 3060u2) −(2/4753)(−583 + 1116u+ 3134u2)v
+〈·, F0e10〉 (2/65863)(7479 + 13866u+ 26278u2)v (1/131726)(65465 + 43752u− 88164u2)
+〈·, F0e11〉 (1/922082)(−166195 + 68402u+ 95304u2) (1/461041)(−96429− 46894u+ 182108u2)v
+〈·, F0e12〉 −(3/461041)(41199− 45674u+ 5436u2)v (3/131726)(−14829− 8154u+ 26800u2)
+〈·, F0e13〉 (1/461041)(28120 + 29493u− 21622u2)− 1
+11263
+
+(−10219 + 6792u+ 19020u2)v
+〈·, e9〉 114(5− 12u+ 8u
+
+2) − 2
+1609
+
+(−930 + 885u+ 2032u2)v 1
+1609
+
+(561− 456u+ 622u2)
+〈·, e10〉 − 297(−46 + 23u+ 22u
+
+2)v − 2
+1609
+
+(−140− 282u+ 427u2) 2
+11263
+
+(−5336 + 6583u+ 7908u2)v
+〈·, e11〉 3679(−39 + 68u+ 6u
+
+2) 0 0
+〈·, e12〉 − 6679(76− 135u+ 48u
+
+2)v 0 0
+〈·, e13〉 11358(587− 148u− 732u
+
+2) 0 1
+〈·, e14〉 4679(−81− 8u+ 199u
+
+2)v 1 0
+
+Table 1., 12, we calculate the mean volume of Ξ
+′ to be
+
+d(Ξ′) =4
+√
+
+2−
+√
+
+2
+9
+
+(η1 + η2 + η3)
+2 − 2
+
+√
+2
+
+3
+(η21 + η
+
+2
+2 + η
+
+2
+3)
+
++
+√
+
+2
+9
+
+(η1 + η2 + η3)
+(
+2(η211
+
+ar
+X
+
+iv
+:1
+
+30
+5.
+
+02
+89
+
+v2
+  [
+
+m
+at
+
+h.
+M
+
+G
+] 
+
+ 9
+ D
+
+ec
+ 2
+
+01
+4
+
+
+
+2 YOAV KALLUS
+
+An inversion about a point x is the isometry Ix : y 7→ 2x−y.−(2/65863)(−7673 + 14458u+ 17178u2)v
+〈·, F0e14〉 −(2/4753)(−439 + 1432u+ 3082u2)v (1/131726)(66455 + 40832u− 105836u2)
+
+e11 e12
+〈·, F0e1〉 (2/461041)(19669− 35394u+ 47802u2) (4/461041)(88155− 230075u+ 174752u2)v
+〈·, F0e2〉 0 0
+〈·, F0e3〉 (1/922082)(−166195 + 68402u+ 95304u2) −(3/461041)(41199− 45674u+ 5436u2)v
+〈·, F0e4〉 (1/461041)(−96429− 46894u+ 182108u2)v (3/131726)(−14829− 8154u+ 26800u2)
+〈·, F0e5〉 (3/922082)(47265− 111466u+ 50436u2) (3/461041)(68953− 192732u+ 128460u2)v
+〈·, F0e6〉 −(3/461041)(68953− 192732u+ 128460u2)v −(9/131726)(11911− 36462u+ 25820u2)
+〈·, F0e7〉 (2/679)(−102 + 342u+ 53u2) −(6/4753)(320− 1033u+, 6.
+
+
+
+PESSIMAL PACKING SHAPES 5
+
+m0
+
+m1
+
+m2
+
+m3
+
+m4
+
+m5
+
+m6
+
+p1p2
+
+p3 p4
+
+k0
+
+Figure 2.488u2)v
+〈·, F0e8〉 (2/65863)(13272− 6927u+ 26312u2)v (30/65863)(662− 622u+ 25u2)
+〈·, F0e9〉 (1/1358)(245− 656u− 948u2) −(4/679)(109− 200u+ 125u2)v
+〈·, F0e10〉 (4/461041)(61800− 34586u+ 543u2)v (1/131726)(−41951 + 80776u− 28660u2)
+〈·, F0e11〉 (1/922082)(213769− 567974u− 163748u2) (3/461041)(68953− 192732u+ 128460u2)v
+〈·, F0e12〉 (3/461041)(68953− 192732u+ 128460u2)v (1/18818)(12903− 44330u+ 35636u2)
+〈·, F0e13〉 (1/461041)(759 + 107533u+ 100614u2) −(1/461041)(−149167− 245274u+ 634392u2)v
+〈·, F0e14〉 −(3/461041)(8985 + 89258u+ 119032u2)v (1/65863)(20449 + 1367u− 33410u2)
+
+e13 e14
+〈·, F0e1〉 −(2/461041)(72529− 63570u+ 30298u2)192732u+ 128460u2)v
+〈·, F0e12〉 (3/461041)(68953− 192732u+ 128460u2)v −(9/131726)(11911− 36462u+ 25820u2)
+〈·, F0e13〉 (1/922082)(−166195 + 68402u+ 95304u2) (3/461041)(41199− 45674u+ 5436u2)v
+〈·, F0e14〉 −(1/461041)(−96429− 46894u+ 182108u2)v (3/131726)(−14829− 8154u+ 26800u2)
+
+e7 e8
+〈·, F0e1〉 (1/679)(−569 + 2564u− 2136u2) (4/65863)(33298− 78729u+ 50406u2)v
+〈·, F0e2〉 (4/679)(31− 258u+ 40u2)v −(4/679)(129− 113u+ 10u2)
+〈·, F0e3〉 (1/9506)(−1347 + 2080u+ 13444u2) (2/65863)(−7673 + 14458u+ 17178u2)v
+〈·, F0e4〉 (2/4753)(−439 + 1432u+ 3082u2)v (1/131726)(66455 + 40832u− 105836u2)
+〈(30/65863)(662− 622u+ 25u2)
+〈·, F0e7〉 (1/9506)(857− 14736u+ 33848u2) (2/4753)(1709− 5171u+ 722u2)v
+〈·, F0e8〉 −(2/4753)(1709− 5171u+ 722u2)v (1/131726)(−103345 + 33000u+ 84232u2)
+〈·, F0e9〉 (1/9506)(4441− 13812u− 8488u2) (6/679)(−27− 229u+ 422u2)v
+〈·, F0e10〉 (6/679)(−27− 229u+ 422u2)v (1/131726)(120805− 361636u+ 219960u2)
+〈·, F0e11〉 (1/1358)(245− 656u− 948u2) (4/461041)(61800− 34586u+ 543u2)v
+〈·, F0e12〉 −(4/679)(109− 200u+ 125u2)v (1/131726)(−41951 + 80776u− 28660u2)
+〈·, F0e13〉 (1/9506)(−1347 + 2080u+ 13444u2)18 YOAV KALLUS
+
+e9 e10
+〈·, F0e1〉 (1/679)(−569 + 2564u− 2136u2) −(4/65863)(33298− 78729u+ 50406u2)v
+〈·, F0e2〉 −(4/679)(31− 258u+ 40u2)v −(4/679)(129− 113u+ 10u2)
+〈·, F0e3〉 −(3/9506)(−587 + 2088u+ 3060u2) (2/65863)(7479 + 13866u+ 26278u2)v
+〈·, F0e4〉 −(2/4753)(−583 + 1116u+ 3134u2)v (1/131726)(65465 + 43752u− 88164u2)
+〈·, F0e5〉 (2/679)(−102 + 342u+ 53u2) −(2/65863)(13272− 6927u+ 26312u2)v
+〈·, F0e6〉 (6/4753)(320− 1033u+ 488u2)vElements of f ′0, g
+′
+1, g
+
+′
+8, g
+
+′
+15, g
+
+′
+22, g
+
+′
+29, and g
+
+′
+36 in
+
+the standard basis of R14.PESSIMAL PACKING SHAPES 17
+
+e1 e2
+〈·, F0e1〉 (8/461041)(194143− 526054u+ 360624u2) 0
+〈·, F0e2〉 0 0
+〈·, F0e3〉 −(2/461041)(72529− 63570u+ 30298u2) −(4/49)(−4− u+ 10u2)v
+〈·, F0e4〉 (4/461041)(−60408− 31391u+ 115516u2)v 1/7
+〈·, F0e5〉 (2/461041)(19669− 35394u+ 47802u2)To build more directly on the result for non-
+regular heptagons of Theorem 1, we give the coordinates
+of (x′0, y
+
+′
+0) of k
+
+′
+0 in reference to k
+
+′′
+0, the point closest to
+
+m′0 on the chord m
+′
+3m
+′
+4 (see text).
+
+The corresponding
+function for M ′ must also, when ε is sufficiently small, have at least
+seven local minima realized by chords m′ik
+
+′
+i, where ||m′i −mi||, ||k′i −
+
+
+
+PESSIMAL PACKING SHAPES 7
+
+m′0
+
+m′3
+
+m′4
+
+k′0
+
+, 7)
+
+ψi = 〈k′i+4 −m′i+4,k′i+4 − pi(b)〉
+ψi+7 = 〈k′i+4 −m′i+4,k′i+4 − pi(1− b)〉
+ψi+14 = α(pi(a),pi(b),k
+
+′
+i+4)
+
+ψi+21 = α(k
+′
+i+4,pi(1− b),pi(1− a))
+
+Additionally, let k
+
+′′
+i be the nearest point on the chord
+
+m′i+3m
+′
+i+4 to the point m
+
+′
+i and let k
+
+′
+i = k
+
+′′
++ η
+
+2
+2 + η
+
+2
+3)− (η1 + η2 + η3)2
+
+)
+,
+
+
+
+12 YOAV KALLUS
+
+where η1 = h1 + h4 − 2, η2 = h2 + h5 − 2, and η3 = h3 + h6 − 2.Note that given the value of, say, hi(t0), we can bound near-by values
+from convexity:
+
+(2) min
+
+(
+t
+
+t0
+,
+
+1− t
+1− t0
+
+)
+174752u2)v
+〈·, F0e2〉 0 0
+〈·, F0e3〉 (1/461041)(759 + 107533u+ 100614u2) (1/461041)(−149167− 245274u+ 634392u2)v
+〈·, F0e4〉 (3/461041)(8985 + 89258u+ 119032u2)v (1/65863)(20449 + 1367u− 33410u2)
+〈·, F0e5〉 (1/922082)(213769− 567974u− 163748u2) −(3/461041)(68953−≤ hi(t)
+hi(t0)
+
+≤ max
+(
+t
+
+t0
+,
+
+1− t
+1− t0
+
+)
+.
+
+A fortiori, Ξ′
+
+is also admissible for K.
+As a1, a2, x
+
+′
+7 and x
+
+′
+10 may be determined explicitly as a function of
+
+hi, i = 1, . . .192732u+ 128460u2)v
+〈·, F0e6〉 −(3/461041)(68953− 192732u+ 128460u2)v (1/18818)(12903− 44330u+ 35636u2)
+〈·, F0e7〉 (1/1358)(245− 656u− 948u2) (4/679)(109− 200u+ 125u2)v
+〈·, F0e8〉 −(4/461041)(61800− 34586u+ 543u2)v (1/131726)(−41951 + 80776u− 28660u2)
+〈·, F0e9〉 (2/679)(−102 + 342u+ 53u2) (, 42,
+such that
+
+∑6
+i=0 cif
+
+′
+i −
+
+∑42
+i=1 dig
+
+′
+i = 0.−(1/461041)(−96429− 46894u+ 182108u2)v
+〈·, F0e6〉 (3/461041)(41199− 45674u+ 5436u2)v (3/131726)(−14829− 8154u+ 26800u2)
+〈·, F0e7〉 −(3/9506)(−587 + 2088u+ 3060u2) (2/4753)(−583 + 1116u+ 3134u2)v
+〈·, F0e8〉 −(2/65863)(7479 + 13866u+ 26278u2)v (1/131726)(65465 + 43752u− 88164u2)
+〈·, F0e9〉 (1/9506)(−1347 + 2080u+ 13444u2) −(2/4753)(−439The
+
+chord m′ik
+′
+i is an affine diameter of M
+
+′. Consider also for each i, the two
+chords parallel to m′ik
+
+′
+i but of half its length, and let the parallelogram
+
+formed by them be of area ∆i.543u2)v
+〈·, F0e6〉 (4/679)(109− 200u+ 125u2)v (1/131726)(−41951 + 80776u− 28660u2)
+〈·, F0e7〉 (1/9506)(4441− 13812u− 8488u2) −(6/679)(−27− 229u+ 422u2)v
+〈·, F0e8〉 −(6/679)(−27− 229u+ 422u2)v (1/131726)(120805− 361636u+ 219960u2)
+〈·, F0e9〉 (1/9506)(857− 14736u+ 33848u2) −(2/4753)(1709− 5171u+115516u2)v
+〈·, F0e2〉 (4/49)(−4− u+ 10u2)v (1/7)
+〈·, F0e3〉 (1/461041)(28120 + 29493u− 21622u2) (1/461041)(−79117− 84650u+ 70536u2)v
+〈·, F0e4〉 −(1/461041)(−79117− 84650u+ 70536u2)v (1/65863)(−21996− 12961u+ 35782u2)
+〈·, F0e5〉 (1/922082)(−166195 + 68402u+ 95304u2)119032u2)v
+〈·, F0e12〉 −(1/461041)(−149167− 245274u+ 634392u2)v (1/65863)(20449 + 1367u− 33410u2)
+〈·, F0e13〉 (1/461041)(−20089− 45197u− 24338u2) (1/461041)(15943 + 262998u+ 380160u2)v
+〈·, F0e14〉 (1/461041)(15943 + 262998u+ 380160u2)v (1/65863)(−23109− 25645u+ 18926u2)
+
+Table 2. (cont.)Similarly,
+
+let x′10, x
+′
+11, and x
+
+′
+12, be the unique points satisfying 〈x′i,xi〉 = hi for
+
+The elements of f ′i and g
+
+′
+i for other values of i
+
+are obtained by appropriate permutation of the indices
+(for example, to obtain g′i+i′ from g
+
+′
+i, cycle the first 14
+
+coordinates by 2i′ and the last 28 by 4i′).
+
+
+	The isoperimetric inequality, S(K) >
+S(B), and Steiner’s formula (3) give
+
+vol(Kλ)
+
+vol(B)
+≥ 1 + 3(w
+
+2
+− 1)λ(1− λ)2.
+
+where
+
+α(p,p′,p′′) = p ∧ p′ + p′ ∧ p′′ + p′′ ∧ p
+is the oriented area of the triangle pp′p′′. From the fact that m′ik
+
+′
+i is
+
+a locally shortest length, we have that a line through k′i perpendicular
+to this length is tangent to M ′, and therefore ψi ≥ 0 for i = 1, . . .It is given by
+
+w =
+2
+∫
+Sn−1
+
+hKdσ
+
+σ(Sn−1)
+,
+
+where σ is the Lebesgue measure on Sn−1.From compactness there must be a constant C such
+that at least one of the following equations holds for at least one i
+
+〈f ′i ,x′〉 ≥ C||x′|| or
+〈g′i,x′〉 ≤ −C||x′||.
+
+Let K be a convex body satisfying (1−ε)B ⊆ K ⊆ (1+ε)B.
+For sufficiently small ε, a double-lattice Ξ′ exists, admissible for K,
+such that d(Ξ′) ≤ d(Ξ)η(K)3, where η(K) = 1
+
+12
+
+∑12
+i=1 hK(xi).
+
+=
+1
+12
+
+∞∑
+l=0
+
+clPl(〈x,p〉),
+
+where cl are the coefficients of Lemma 2.Let
+
+cl = Pl(1) + 4Pl(
+1
+2
+) + 2Pl(0) + Pl(−13) + 2Pl(−
+
+1
+2
+) + 2Pl(−56),
+
+where Pl(t) is the Legendre polynomial of degreeSpecifically, we replace the boundary above
+
+
+
+8 YOAV KALLUS
+
+m′im
+′
+i+1 (1− t0)m′i + t0m′i+1
+
+pi(t0)
+∂M ′ 2vhi(t0)
+
+Figure 4.30/65863)(662− 622u+ 25u2)
+〈·, F0e13〉 −(3/9506)(−587 + 2088u+ 3060u2) −(2/65863)(7479 + 13866u+ 26278u2)v
+〈·, F0e14〉 (2/4753)(−583 + 1116u+ 3134u2)v (1/131726)(65465 + 43752u− 88164u2)
+
+Table 2.722u2)v
+〈·, F0e10〉 (2/4753)(1709− 5171u+ 722u2)v (1/131726)(−103345 + 33000u+ 84232u2)
+〈·, F0e11〉 (2/679)(−102 + 342u+ 53u2) (2/65863)(13272− 6927u+ 26312u2)v
+〈·, F0e12〉 −(6/4753)(320− 1033u+ 488u2)vIt then follows from the funda-
+
+mental theorem of linear algebra that if
+
+〈f ′i ,x′〉 ≤ 0 for i = 0, . . .that 〈fi,x〉 ≤ 0 for all i if and only if
+(1) 〈fi,x〉 = 0 for all i.
+The intersection of the space of solutions to (1) with W is the two-
+dimensional space spanned by the two vectors given in Table 1.By direct calculation, we observe that PFiP is positive definite (when
+restricted to the image of P ) for all i, and so 1
+
+2
+〈x, PFiPx〉 ≥ c||Px||2.
+
+For k = 3 and k = 5 it is easy to show by induction that the residue
+of Ql(k/6) modulo 8 depends only on k and the residue of l modulo 4
+and takes the following values:
+
+Ql(1/2) ≡ 1, 3, 7, 1 (mod 8)
+Ql(5/6) ≡ 1, 5, 7, 7 (mod 8)
+
+resp.84650u+ 70536u2)v
+〈·, F0e14〉 (1/461041)(−79117− 84650u+ 70536u2)v (1/65863)(−21996− 12961u+ 35782u2)
+
+e5 e6
+〈·, F0e1〉 (2/461041)(19669− 35394u+ 47802u2) −(4/461041)(88155− 230075u+In three dimensions, Steiner’s formula can be written as
+
+(3) vol(K) = 4π
+3
+
+(1− λ)3 + 2πwλ+ S(K)λ2(1− λ) + λ3 vol(K),
+where S(K) is the surface area of K [21].
+
+Fi are given in Tables 1 and 2.
+We note that there exist coefficients ci > 0 such that
+
+∑6
+i=0 cifi = 0,
+
+namely ci = 1 for all i. It follows from the fundamental theorem of
+linear algebraWithin this neighborhood, we
+may bound φi(x) using its Taylor series
+
+φi(x) ≥ 〈fi,x〉+ 12〈x, Fix〉 − C||x||
+3,
+
+where the explicit values of fi andThese
+functions are all analytic in a neighborhood of the origin, and therefore
+we have that
+
+ψi(x,x
+′) ≤ ψi(x, 0) + 〈g′i,x′〉+ C||x′||(||x||+ ||x′||).
+
+Therefore we
+also have that
+
+φi(x) ≥ 〈fi, (1− P )x〉+ 12〈x, PFiPx〉 − C||x||
+3.
+
+For each chord m′im
+′
+i+1 consider the arc of the boundary between m
+
+′
+i
+
+and m′i+1 as the graph of a function hi(t), where 2vhi(t) is the height
+of the boundary above the chord at the point (1 − t)m′i + tm′i+1 on
+the chord (see Figure 4).Therefore, when l ≥ 3 is odd, then 6ll!cl = Ql(1)− 2Ql(56) + 2Ql(
+
+1
+2
+)−
+
+Ql(
+1
+3
+) ≡ 4 (mod 8), and therefore cannot vanish.Note that φi(x, 0) ≥ A0/2∆0A/2∆ − 1, where A0/2∆0 is the double-lattice
+packing density of the heptagon M0 = m
+
+′
+0m
+′
+1 . .There exists ε > 0 such that if M ′ is a heptagon and
+(1 − ε)M ⊆ M ′ ⊆ (1 + ε)M then A′/2∆′ ≥ A/2∆, with equality only
+when M ′ is affinely equivalent to M .
+
+Consider the altitude dropped from each vertex m′i of M
+′ to the
+
+opposite edge m′i+3m
+′
+i+4 and label the point of intersection k
+
+′
+i.Since A′′/2∆i ≤
+A′/2∆′, then φi =
+
+A′′/2∆i
+A/2∆
+
+− 1 ≤ 0.
+Let us consider φi as a function of x = (x0, y0, x1, y1, . .The domain M
+
+′ is fully specified by the points m′i and k
+′
+i and
+
+the functions hi(t), i = 0, . . .0
+〈·, F0e6〉 −(4/461041)(88155− 230075u+ 174752u2)v 0
+〈·, F0e7〉 (1/679)(−569 + 2564u− 2136u2)Now let Ξ
+
+′ be the
+double lattice generated by translations by a1 and a2 and by inversions
+about x′7 and x
+
+′
+10.Let us label hi = hK(xi) and consider be the polyhedron P
+
+′ = {x ∈
+R3 : 〈x,xi〉 ≤ hi for all i = 1, . . .The arc of the boundary of M ′ between the
+points m′i and m
+
+′
+i+1 is given by the graph of the function
+
+hi(t).x′7− 12a1, and x
+
+′
+9 = x
+
+′
+7− 12a2.As
+
+the area of this rectangle is given by ∆ = (−19+2u+56u2)v/8 and the
+area of the heptagon is given by A = 7uv, the double-lattice packing
+density of M is A/2∆ = 2
+
+97
+(−111 + 492u− 356u2) = 0.89269 . .When l ≥ 3 is even,
+
+then 6ll!cl = Ql(1) + 2Ql(
+5
+6
+) + 6Ql(
+
+1
+2
+)For
+example, the densest-known double-lattice packing of the tetrahedron
+T has a density of only 1
+
+369
+(139 + 40
+
+√
+10) = 0.71948 . ., y
+
+′
+6, h0(a), h0(b), h0(1 − b), h0(1 − a), h1(a),
+
+. .• The regular heptagon is a local minimum of δL∗ among all con-
+
+vex bodies in two dimensions (Section 2).
+
+For example, in the illustration
+m′0k
+
+′
+0 is an affine diameter associated with one of these
+
+directions.Therefore, when ε is
+small enough d(Ξ′) ≤ 4
+
+√
+2. �
+
+Lemma 2.− x2
+x10 = (1/2, 1/
+
+√
+12,−
+
+√
+2/3), x11 = x10 − x1, and x12 = x10 − x2.We then find
+the chords of the replacement boundary arcs that are parallel to m′ik
+
+′
+i
+
+and half of its length, and call the area of the resulting parallelogram
+∆i.1
+
+2
+w, where w is the mean width of K.
+
+Proof.+ 1432u+ 3082u2)v
+〈·, F0e10〉 −(2/65863)(−7673 + 14458u+ 17178u2)v (1/131726)(66455 + 40832u− 105836u2)
+〈·, F0e11〉 (1/461041)(759 + 107533u+ 100614u2) −(3/461041)(8985 + 89258u+6/4753)(320− 1033u+ 488u2)v
+〈·, F0e10〉 −(2/65863)(13272− 6927u+ 26312u2)v (30/65863)(662− 622u+ 25u2)
+〈·, F0e11〉 (3/922082)(47265− 111466u+ 50436u2) −(3/461041)(68953−As the problem of identifying global minima in most cases appears
+to be beyond current reach, in this paper we focus on local min-
+ima. We review some known results and prove these new results:
+in two dimensions, the regular heptagon is a local minimum of
+the double-lattice packing density, and in three dimensions, the
+directional derivative (in the sense of Minkowski addition) of the
+double-lattice packing density at the point in the space of shapes
+corresponding to the ball is in every direction positive.
+
+18 (1965), 339.
+
+4. K. R. Doheny, On the lower bound of packing density for convex bodies in the
+plane, Contributions to Algebra and Geometry 36 (1995), 109.
+
++Ql(
+
+1
+3
+) + 2Ql(0) ≡ 8 (mod 16),
+
+and again cannot vanish.However, we intend to use only the
+points m′i and k
+
+′
+i and the values hi(a), hi(b), hi(1− b), and hi(1− a).
+
+Now let g(y) = (1/2π)
+
+∫ 2π
+0
+η(Rθ(K))dθ,
+
+and repeat this definition for all y ∈ S2.
+∂M ′∂M
+′
+
+k′′0
+
+Figure 3.10 YOAV KALLUS
+
+If, as might very well be the case, δ(M) = δL∗(M), then the conjec-
+ture would also imply that M is a minimum of δ.
+
+3.=
+
+1
+12
+
+∑∞
+The half-length parallelogram of least area
+inscribed in the regular heptagon.
+
+Let us now consider a different domain M ′, with area A′ and least-
+area half-length parallelogram of area ∆′. We will be interested in the
+limit that M ′ becomes more and more similar to M .We note that for each face of P
+
+′ there is a neighbor
+ξ′(P ′), ξ′ ∈ Ξ′, such that P ′ and ξ′(P ′) touch along this face.Soc., Budapest, 2013.
+
+2. P. Brass, W. O. J. Moser, and J. Pach, Research problems in discrete geometry,
+Springer, 2005.
+
+K. Mahler, On the minimum determinant and the circumscribed hexagons of
+
+a convex domain, Proceedings of the Koninklijke Nederlandse Academie van
+Wetenschappen 50 (1947), 326–337.
+
+18.�
+
+We now prove Theorem 3.
+
+Proof.x1 =
+(1, 0, 0), x2 = (1/2,
+
+√
+3/2, 0),The 3-ball
+
+Let K and K ′ be convex bodies and let λ, λ′ ≥ 0There exists ε > 0 such that if (1−ε)M ⊆M ′ ⊆ (1+ε)M
+then A′/2∆′ ≥ A/2∆, with equality only when M ′ is affinely equivalent
+to M .
+
+The measure µp is given by
+
+12µp({x : 〈p,x〉 ∈ (t1, t2)})〈f ′i ,x′〉 − C||x′||(||x||+ ||x′||).
+
+For explicit values of f ′i , see Table 3.
+
+
+
+PESSIMAL PACKING SHAPES 9
+
+We now consider additional functions ψi(x,x
+′), i = 1, . . .If K is not a ball, then there exist numbers λ0(K) > 0
+and β(K) > 0 such that
+
+δL∗ ((1− λ)B + λK)− δL∗(B) > β(K)λ,
+for all 0From Theorem 1
+
+it then follows that φi(x, 0) ≥ 0.The least-area
+half-length parallelogram inscribed in M (see Figure 2) is the rectangle
+p1p2p3p4, where p1 = (1− a)m1 + am2, p2 = (1− b)m2 + bm3, p3 =
+(1−b)m5+bm4, p4 = (1−a)m6+am5, a = 74−2u
+
+2, and b = −1
+2
++u2.Kε and K ⊆ K ′ε},
+where Kε = {x + y : x ∈ K, ||y|| ≤ ε} is the ε-parallel body of K.
+
+A set of isometries Ξ is said to be admissible for K if the interiors
+of ξ(K) and ξ′(K) are disjoint for all distinct ξ, ξ′ ∈ Ξ. The (lower)
+mean volume of Ξ can be defined as d(Ξ)In three
+dimensions, I showed that the ball is a local minimum of δL among c.s.
+bodies [13], and therefore also a local minimum of δT and δ among c.s.
+bodies, due to Hales’s confirmation of Kepler’s conjecture [11].
+
+Also, the first derivatives of φij with respect to any
+component taken at the origin are independent of j. Therefore, we
+have that
+
+φi(x,x
+′) ≥ φi(x, 0) += (x′0, y
+′
+0, x
+′
+1, y
+′
+1, . . .= x
+′
+10− 12a1, and x
+
+′
+A
+convex body K ⊆ Rn can be specified by its support height function
+hK : S
+
+n−1 → R, given by hK(x) = maxy∈K〈x,y〉.However, it
+does, everywhere in such a neighborhood, take the value of one of 16
+analytic functions (let us call them φij(x,x
+
+′), j = 1, . . .Let P be
+the polyhedron {x ∈ R3 : 〈x,xi〉 ≤ 1 for all i = 1, . . .This would follow
+
+
+
+PESSIMAL PACKING SHAPES 15
+
+immediately if the packing density of the regular heptagon is
+shown to be equal to its double-lattice packing density.
+This is the case for k = 0, 2, 6 and
+l = 3, as can be easily checked.
+
+Determining local minima
+seems to be a more approachable problem, and so far the following local
+minima have been identified:
+
+• Reinhardt’s smoothed octagon is a local minimum of δL and of
+δT among c.s. bodies in two dimensions [18].
+We wish to prove that there exists
+ε > 0 such that A′/2∆′ ≥ A/2∆ for all M ′. We will prove this in two
+steps: we first prove that A′/2∆′ ≥ A/2∆ if M ′ is also a heptagon, and
+then we prove that M ′ is a heptagon if A′/2∆′ ≤ A/2∆.
+Theorem 1.In this section we prove the following result about the unit ball and
+the double-lattice packing density of nearly spherical bodies:
+
+Theorem 3.References
+
+1. A. Bezdek and W. Kuperberg, Dense packing of space with various convex
+solids, Geometry – intuitive, discrete, and convex (I. Bárány, K. J. Boröczky,
+G. Fejes Tóth, and J. Pach, eds.),, 6 and
+〈g′i,x′〉 ≥ 0 for i = 1, . .The space of convex bodies, denoted Kn, can
+be endowed with the Hausdorff metric:
+
+dist(K,K ′)We end with three open problems:
+
+• The conjecture that the ball is a global minimum of δ among
+convex bodies in three dimensions has been attributed to Ulam
+[8].if l = 1 or l = 2.
+
+Proof.By our assumption,
+φi ≤ 0 for all i.
+
+Consider φi as a function of x.PESSIMAL PACKING SHAPES 3
+
+Figure 1.4 YOAV KALLUS
+
+Each of the problems 1–3 lends itself to a local variation: which bodies
+are a local minimum of the function in question?We will assume that A′/2∆′ ≤ A/2∆, and show that we
+necessarily then have that M ′ = M .
+
+• The ball is a local minimum of δL and of δT among c.s. bodies
+
+in three dimensions [13].
+[2]):
+
+Problem 1.12 = x
+
+′
+10− 12a2.Consider now the two chords parallel to m′ik
+′
+i and half of its length.
+
+i +R
+
+i(x′i, y
+′
+i) (see Figure 3).The regular heptagon
+
+Let K be a two-dimensional convex body (hence, domain) of area
+A.Therefore, let us
+assume that (1 − ε)M ⊆ M ′ ⊆ (1 + ε)M , and we will explore what
+happens as we let ε approach 0.Also, failing to show that the three-dimensional ball is a local
+minimum of δ, we show that the directional derivative at the ball with
+respect to Minkowski addition is positive in all directions.
+
+• In four dimensions, it is known that the ball is not a minimum
+
+of δL among c.s. bodies [13].We fix a realization of the
+
+
+
+PESSIMAL PACKING SHAPES 11
+
+h.c.p. structure in which the unit ball centered at the origin shares
+the following twelve boundary points with neighboring balls:Let A′′ be the area of the polygon
+m′0p0(a)p0(b)k
+
+′
+4p0(1− b)p0(1−a)m′1 . .The l = 0 term of g(x), giving its average value,
+
+is equal to that of hK(x), namely w/2.The double-lattice packing density of B is π/
+√
+
+18.= 4
+√
+
+2, is generated by trans-
+lations by 2x1 and 2x2 and by inversions about x7 and x10.G. Kuperberg and W. Kuperberg, Double-lattice packings of convex bodies in
+
+the plane, Discrete Compu..m
+
+′
+6.The claim of the theorem now follows immediately from Lemma 1. �
+
+Conjecture.= (w/2n)σ(Sn−1)|| · ||2.
+
+, 42 given
+
+by (in each of the definitions that follow i = 1 . . .
