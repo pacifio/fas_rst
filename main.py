@@ -1,3 +1,17 @@
+#!/usr/bin/env python3
+
+"""
+FAS RST Gen 1
+
+Falcon Academy of Sciences Reasearch paper Summarization Tool
+
+This is a generic text summarization tool modified to summarize PDF content , still not stable
+This needs to implement deep Learning algorithms , currently implemented only using spacY library
+SpacY uses text extraction algorithms which looks for certain tokens
+
+Please see README.md for more instructions
+"""
+
 import os
 import sys
 import spacy
@@ -7,7 +21,11 @@ from spacy.lang.en.stop_words import STOP_WORDS
 from PyPDF2 import PdfReader
 from tika import parser
 
+
+# If production mode is `False` then `test()` function will be called
 PRODUCTION_MODE = True
+
+# Use Apache Tika to extract PDF content , this is recommended but needs JAVA RE to work
 USE_TIKA_SERVER = True
 
 demos = {
@@ -49,16 +67,17 @@ below."""
 }
 
 
+# Private _Summarizer utility class
 class _Summarizer():
     @staticmethod
     def summarize(text: str) -> str:
         stopwords = list(STOP_WORDS)
         punctuation = punc + '\n'
 
-        nlp = spacy.load('en_core_web_sm')
+        nlp = spacy.load('en_core_web_sm')  # Core english language model
         doc = nlp(text)
 
-        word_frequencies = {}
+        word_frequencies = {}  # Reduce word by frequencies
         for word in doc:
             if word.text.lower() not in stopwords:
                 if word.text.lower() not in punctuation:
